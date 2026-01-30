@@ -119,13 +119,6 @@ This confirms correct RBAC and governance implementation.
 
 ---
 
-## Screenshots (Optional)
-
-Screenshots, if added, are stored in the `screenshots` folder and may include:
-- RBAC role assignments
-- Security group configuration
-- Resource locks
-- Access denied validation for Reader user
 
 Example:
 
